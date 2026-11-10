@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120" fill="none" role="img" aria-label="MelanCloud — cloud file platform · web ui — C# · JS">
+  <title>MelanCloud</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="420" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1626"/>
+      <stop offset="1" stop-color="#241333"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(392 8) rotate(90) scale(150 170)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="24" y1="0" x2="212" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="420" height="120" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="420" height="120" fill="url(#bg)"/>
+    <rect width="420" height="120" fill="url(#glow)"/>
+    <rect x="24" y="22" width="34" height="3.5" rx="1.75" fill="url(#accent)"/>
+    <text x="24" y="63" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#F8FAFC" letter-spacing="-0.4">MelanCloud</text>
+    <text x="24" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.9" fill="#A9B4C7">CLOUD FILE PLATFORM · WEB UI</text>
+    <g>
+      <circle cx="29" cy="104" r="5" fill="#178600"/>
+      <text x="42" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#CBD5E1">C# · JS</text>
+    </g>
+    <g transform="translate(378 100)" fill="none" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-8 0H8"/><path d="M2 -6l6 6-6 6"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="419" height="119" rx="15.5" stroke="#A78BFA" stroke-opacity="0.28"/>
+</svg>

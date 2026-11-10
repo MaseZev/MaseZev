@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="120" viewBox="0 0 1280 120" fill="none" role="img" aria-label="Thanks for stopping by">
+  <title>Thanks for stopping by</title>
+  <defs>
+    <linearGradient id="wave1" x1="0" y1="40" x2="1280" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.38"/>
+      <stop offset="0.55" stop-color="#EC4899" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="60" x2="1280" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 76C220 32 420 110 640 76C860 42 1060 108 1280 74V120H0V76Z" fill="url(#wave1)"/>
+  <path d="M0 96C240 58 460 124 680 94C900 64 1080 112 1280 98V120H0V96Z" fill="url(#wave2)"/>
+  <text x="640" y="50" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="5.5" fill="#94A3B8">THANKS FOR STOPPING BY ✦ MASEZEV</text>
+</svg>
